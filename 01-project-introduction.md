@@ -1,4 +1,4 @@
-# High School Computer Science Final Project Guide
+# 🙌🏾 Engineering Practicum: Term 1 - Final Project 🙌🏾
 
 ## Overview
 During this 7-day project (1.5 hours each day), you'll create an interactive program that analyzes real data related to your interests. While your finished project won't solve global challenges, it will demonstrate how programming and data analysis can be used to understand and address important problems.
