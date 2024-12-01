@@ -43,6 +43,8 @@ def main():
     results = analyze_water_quality(clean_data)
     create_visualizations(clean_data)
 
+```
+
 # Day 7 (1.5 hrs) - Documentation and presentation
 """
 Complete docstrings, README, and presentation prep
@@ -608,6 +610,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
 
 ### Initial Setup Steps
 1. Create project directory
