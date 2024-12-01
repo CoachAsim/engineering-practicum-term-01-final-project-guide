@@ -38,7 +38,7 @@ Building from the examples in the introduction, your project must demonstrate ma
 - README file
 - Analysis report
 
-### Extension Options 
+### Extension Options (NOT REQUIRED)
 - Classes for object-oriented design
 - HTML & CSS interface
 - Advanced data structures
