@@ -40,10 +40,9 @@ The timeline below helps you incrementally build your interactive data analysis 
 - Debug and fix issues (30 min)
 - Document implementation of core concepts (30 min)
 
-### Day 7: Testing & Finalization (1.5 hours)
-- Test all programming concepts (30 min)
+### Day 7: Finalization (1.5 hours)
 - Complete documentation (30 min)
-- Prepare presentation highlighting core concepts (30 min)
+- Prepare presentation highlighting core concepts (1 hour)
 
 ## Time Management Tips
 
