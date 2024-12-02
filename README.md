@@ -63,7 +63,8 @@ The following concepts must be demonstrated in your project:
 ## Additional Support
 I wish that for everyone one of you there was one of me but unfortunately that ratio is 1:16. So! I am using Large Language Model AI tools to help all of us : )
 
-You can use the Large Language Model of your choice (Gemini, Claude, ChatGPT) to coach you through your project like I would!
+You can use the Large Language Model of your choice (Gemini, Claude, ChatGPT) to coach you through your project like I would! 
+Note: The only one that can handle this on the free version is Chat GPT... So you're probably gonna wanna use Chat GPT unless you pay for Gemini or Claude.
 
 Here are the constraints though:
 1. You MUST use the exact prompt in this document to initiate the chat (ask me if you want to change it): https://docs.google.com/document/d/1fJt1DWv3nH4Ix1Eo6VGILbftq_LgK6l1rFzPOSkhoeI/edit?usp=sharing
