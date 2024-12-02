@@ -45,7 +45,7 @@ Your `main.py` should be organized in this order:
 
 ### Example Structure with Interactive Features
 ```python
-# 1.
+# 1. File description
 """
 Project: [Your Project Name]
 Author: [Your Name]
