@@ -103,6 +103,17 @@ def main():
             break
         # Handle other menu options...
 
+"""
+The block below checks if this file is being run directly or being imported into another program.
+
+Think of it like this:
+- When you run this file, Python says, "Hey, you're in charge now!"
+- This ensures the main() function only runs when this file is executed directly,
+  and NOT when it's being used as a helper or module in another program.
+
+This is useful when you want to separate the code that's supposed to run automatically
+from the code you might just want to use elsewhere.
+"""
 if __name__ == "__main__":
     main()
 ```
