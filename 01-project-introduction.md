@@ -9,6 +9,7 @@ During this 7-day project (1.5 hours each day), you'll create an interactive pro
 - Analysis of one dataset
 - At least two visualizations
 - Clear documentation
+- ⚠️ I recommend that you keep your intial ideas relatively simple 🙏🏾 You can always add more ontop of a simple project if you have more time 😎 Which is better than getting overwhelmed with a complex project 🫶🏾
 
 ## Example Projects
 
