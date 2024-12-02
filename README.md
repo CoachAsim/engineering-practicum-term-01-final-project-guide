@@ -21,6 +21,7 @@ All documents are named using the format: `XX-category-name.md` where XX is a tw
 - `09-resources.md`: Library documentation and helpful links
 - `10-completion-checklist.md`: Checklist to make sure you complete all requirements 🙌🏾
 - `11-pep8-basics.md`: Python style guide for the project
+- `error-handling-guide-github.md`: Learn about error handling. A vital tool in software engineering that you'll be using for the first time in this project!
 
 ## Core Programming Concepts
 The following concepts must be demonstrated in your project:
