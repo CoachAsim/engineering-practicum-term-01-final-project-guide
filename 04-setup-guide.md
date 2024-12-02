@@ -45,6 +45,7 @@ Your `main.py` should be organized in this order:
 
 ### Example Structure with Interactive Features
 ```python
+# 1.
 """
 Project: [Your Project Name]
 Author: [Your Name]
@@ -53,11 +54,11 @@ Date: [Current Date]
 Interactive data analysis program for [your topic].
 """
 
-# 1. Imports
+# 2. Imports
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# 2. Constants
+# 3. Constants
 MENU_OPTIONS = {
     '1': 'Analyze entire dataset',
     '2': 'Focus on specific feature',
@@ -65,7 +66,7 @@ MENU_OPTIONS = {
     '4': 'Exit program'
 }
 
-# 3. Data Processing Functions
+# 4. Data Processing Functions
 def load_data(filename):
     """Load and validate dataset"""
     try:
@@ -76,7 +77,7 @@ def load_data(filename):
         print(f"Error loading data: {e}")
         return None
 
-# 4. Analysis Functions
+# 5. Analysis Functions
 def analyze_data(df, feature=None):
     """Analyze data based on user selection"""
     if df is None:
@@ -86,7 +87,7 @@ def analyze_data(df, feature=None):
         return df[feature].describe()
     return df.describe()
 
-# 5. Interactive Features
+# 6. Interactive Features
 def display_menu():
     """Show main menu and get user choice"""
     print("\n=== Data Analysis Menu ===")
@@ -94,7 +95,7 @@ def display_menu():
         print(f"{key}. {value}")
     return input("Enter your choice: ")
 
-# 6. Main Program
+# 7. Main Program
 def main():
     df = load_data('data/dataset.csv')
     while True:
@@ -104,7 +105,7 @@ def main():
         # Handle other menu options...
 
 """
-The block below checks if this file is being run directly or being imported into another program.
+The block below checks if this file is being run directly or being imported into another program. You must include it 🙂
 
 Think of it like this:
 - When you run this file, Python says, "Hey, you're in charge now!"
