@@ -30,6 +30,7 @@
     - CSV format
     - Clear documentation
     - 1000+ rows
+    - Look for usability score of 10
     
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
   * Look for:
