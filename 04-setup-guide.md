@@ -34,13 +34,14 @@ your_project/
 
 ## Code Organization Guidelines
 Your `main.py` should be organized in this order:
-1. Imports
-2. Constants and configuration (if needed)
-3. Data processing functions
-4. Analysis functions
-5. Interactive features and menus
-6. Visualization functions
-7. Main program execution
+1. File description
+2. Imports
+3. Constants and configuration (if needed)
+4. Data processing functions
+5. Analysis functions
+6. Interactive features and menus
+7. Visualization functions
+8. Main program execution
 
 ### Example Structure with Interactive Features
 ```python
