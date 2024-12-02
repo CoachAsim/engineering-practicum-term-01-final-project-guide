@@ -52,10 +52,8 @@ project/
 
 ## Future Improvements
 [What you'd add with more time]
-```
 
 ## Code Documentation
-
 ### Function Documentation Template
 ```python
 def function_name(param1, param2):
@@ -101,7 +99,7 @@ def display_menu():
 ```
 
 ### Documentation During Development
-- Add function docstrings immediately
+- Add function docstrings immediately. Docstrings are comments created with an opening and closing set of 3 quotation marks. """
 - Comment complex logic
 - Explain any non-obvious choices
 - Document interactive features thoroughly
