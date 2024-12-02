@@ -64,7 +64,7 @@ I wish that for everyone one of you there was one of me but unfortunately that r
 You can use the Large Language Model of your choice (Gemini, Claude, ChatGPT) to coach you through your project like I would!
 
 Here are the constraints though:
-1. You MUST use this exact prompt in this document (ask me if you want to change it): https://docs.google.com/document/d/1fJt1DWv3nH4Ix1Eo6VGILbftq_LgK6l1rFzPOSkhoeI/edit?usp=sharing
+1. You MUST use the exact prompt in this document to initiate the chat (ask me if you want to change it): https://docs.google.com/document/d/1fJt1DWv3nH4Ix1Eo6VGILbftq_LgK6l1rFzPOSkhoeI/edit?usp=sharing
 - Basically, this prompt sets you up to be able to get support, learn and improve you skills and understanding without just being given the answers (working code).
 
 2. You have to download and attach this document to your prompt: https://docs.google.com/document/d/1KTrM8X539Gcf86KVkwVVSh8awU8JitkTw1Bl0eZJd_E/edit?usp=sharing
