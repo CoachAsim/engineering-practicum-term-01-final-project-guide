@@ -20,6 +20,10 @@ Think it through:
 ```
 
 ## Part 2: Your First Data Analysis with Pandas 🐼
+If you'd like to follow along by making this project in VSCode:
+1. Be sure to install pandas, matplotlib and seaborn locally
+2. Download the CSV https://drive.google.com/file/d/1vsARrRMmrHX1F2WoywKgxL2xdc9opMxo/view?usp=sharing
+
 
 ### Loading and Understanding Data
 ```python
@@ -423,13 +427,5 @@ monthly_sunshine = weather.groupby('month')['sunshine'].mean()
 Remember: Every great project started with simple steps. You've got this! 🌟
 
 Need more help? Keep experimenting and don't be afraid to ask questions! 
-
-## What's Next? 🚀
-
-Try these challenges:
-1. Plot your own data in different ways
-2. Add colors and labels
-3. Tell a story with your plots
-4. Help others understand your work
 
 The best plots are ones that help solve real problems - what will you visualize? 😊
