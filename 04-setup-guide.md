@@ -44,6 +44,8 @@ Your `main.py` should be organized in this order:
 8. Main program execution
 
 ### Example Structure with Interactive Features
+Emphasis on "Example" this is not the word for word / letter for letter code that you need. At this stage you have to get comfortable seeing example code and adapting parts of it that are useful 🏋🏽‍♀️🏋🏽‍♂️ This just shows you examples of the sections that you will need in your code.
+
 ```python
 # 1. File description
 """
