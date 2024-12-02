@@ -29,7 +29,6 @@ Clearly explain the problem you're solving and why it matters.
    - Type 2: [Description]
 
 ## Program Structure
-```python
 project/
 ├── README.md
 ├── main.py        # Main program with all code
