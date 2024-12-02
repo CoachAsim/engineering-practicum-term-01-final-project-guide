@@ -22,7 +22,7 @@ def CalculateAvg(values):       # No CapWords
 
 ### Constants
 ```python
-# ✅ GOOD - Uppercase for constants
+# ✅ GOOD - Uppercase for constants (variables that never change 🪨)
 MENU_OPTIONS = {
     '1': 'Analyze Data',
     '2': 'Show Plot',
