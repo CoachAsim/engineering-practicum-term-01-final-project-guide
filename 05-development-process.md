@@ -63,6 +63,42 @@ def explore_listening_times(df):
     
     return hourly_listens
 
+def find_song_patterns(df):
+    """Analyze song patterns based on plays or genres."""
+    try:
+        # Example: Count songs played per day
+        df['date'] = df['timestamp'].dt.date
+        daily_plays = df.groupby('date')['song'].count()
+        
+        print("\nSong Patterns Analysis:")
+        print("Average songs per day:", daily_plays.mean())
+        print("Most songs played in a day:", daily_plays.max())
+        print("Fewest songs played in a day:", daily_plays.min())
+        
+        return daily_plays
+    except KeyError as e:
+        print(f"Error: Missing column - {e}")
+        return None
+
+def generate_report(df):
+    """Generate and save a listening report."""
+    try:
+        report = {
+            'Top Artist': df['artist'].value_counts().idxmax(),
+            'Total Songs Played': len(df),
+            'Peak Hour': df['timestamp'].dt.hour.mode()[0],
+        }
+        
+        print("\nGenerated Report:")
+        for key, value in report.items():
+            print(f"{key}: {value}")
+        
+        # Save to a file
+        pd.DataFrame([report]).to_csv("listening_report.csv", index=False)
+        print("Report saved as 'listening_report.csv'")
+    except Exception as e:
+        print(f"Error generating report: {e}")
+
 def main():
     """Main program loop."""
     df = load_and_prepare_data('listening_history.csv')
@@ -93,9 +129,24 @@ def main():
                 plt.title("Listening Activity by Hour")
                 plt.show()
         
+        elif choice == '3':
+            daily_patterns = find_song_patterns(df)
+            if daily_patterns is not None:
+                visualize = input("\nVisualize daily patterns? (y/n): ")
+                if visualize.lower() == 'y':
+                    daily_patterns.plot(kind='line')
+                    plt.title("Daily Song Play Patterns")
+                    plt.show()
+        
+        elif choice == '4':
+            generate_report(df)
+        
         elif choice == '5':
             print("Thanks for using the Music Analyzer!")
             break
+        
+        else:
+            print("Invalid choice. Please select a valid menu option.")
         
         input("\nPress Enter to continue...")
 
