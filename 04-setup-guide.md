@@ -32,6 +32,13 @@ your_project/
 └── data/         # Your dataset files
 ```
 
+## Create Your Repository
+Yep, go ahead and follow the instructions. 
+https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
+
+Practice makes perfect... Well, practice makes it easier 🙂
+
+
 ## Code Organization Guidelines
 Your `main.py` should be organized in this order:
 1. File description
