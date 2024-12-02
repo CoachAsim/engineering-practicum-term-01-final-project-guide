@@ -1,18 +1,16 @@
 # 07-data-analysis-guide.md
 
 # Interactive Data Analysis Guide
+Documentation. Documentation. Documentation. 
 
-## 1. Data Loading with User Input
-Documentation. Documentation. Documentation. I provided examples of different techniques you may want to use. But at the end of the day, its up to you as the engineer to define the funcionality you want and its requirements. Then to find and ‼️READ‼️ the documentation for whatever tools you are using in order to deliver the desired functionality. 
-
-In the case of exploratory data analysis we are using the pandas library to load and process our data sets. To figure out how to do that, I go to the documentation. 
-
-I'll give you this one for free 😁 https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html
-
-There is also the example below.
+I provided examples of different techniques you may want to use. But at the end of the day, its up to you as the engineer to define the funcionality you want and its requirements. Then to find and ‼️READ‼️ the documentation for whatever tools you are using in order to deliver the desired functionality. 
 
 Documentation! Documentation! Documentation!
 
+## 1. Data Loading with User Input
+In the case of exploratory data analysis we are using the pandas library to load and process our data sets. To figure out how to do that, I go to the documentation. 
+
+I'll give you this one for free 😁 https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html
 ```python
 def load_data():
     """Interactive data loading with user feedback."""
