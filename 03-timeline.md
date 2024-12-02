@@ -11,7 +11,7 @@ These times are just guides, not absolute time limits ⏱️ Don't rush yourself
 ### Day 1: Planning & Setup (1.5 hours)
 - Choose project focus (15 min)
 - Find and download appropriate dataset (15 min)
-- Create project folder and main.py (15 min)
+- Create project folders, main.py, and Git & Github Repos (15 min)
 - Plan core programming concepts implementation (30 min)
 - Test loading your dataset (15 min)
 
