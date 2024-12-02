@@ -7,9 +7,10 @@ The timeline below helps you incrementally build your interactive data analysis 
 These times are just guides, not absolute time limits ⏱️ Don't rush yourself! It's just good to begin to get a gauge on how long it takes you to do things. As always, with practice, things that used to take an hour can eventually take 5 minutes 😎
 
 ## Daily Breakdown
-### Professional Software Engineering: Git & Github Daily
+### Professional Software Engineering: Git & Github
 - At the end of each day you should commit to git 🛟 https://github.com/git-guides/git-commit
-- Make sure your commits have messages and those messages are descriptive.
+- Make sure your commits have messages and those messages are descriptive
+- Remember, you have to push to your Github repo to see your finished project in Github
 
 ### Day 1: Planning & Setup (1.5 hours)
 - Choose project focus (15 min)
