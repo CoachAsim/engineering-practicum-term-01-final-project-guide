@@ -58,5 +58,19 @@ The following concepts must be demonstrated in your project:
 
 4. Use the checklist in `10-completion-checklist.md` to self-assess
 
+## Additional Support
+I wish that for everyone one of you there was one of me but unfortunately that ratio is 1:16. So! I am using Large Language Model AI tools to help all of us : )
+
+You can use the Large Language Model of your choice (Gemini, Claude, ChatGPT) to coach you through your project like I would!
+
+Here are the constraints though:
+1. You MUST use this exact prompt in this document (ask me if you want to change it): https://docs.google.com/document/d/1fJt1DWv3nH4Ix1Eo6VGILbftq_LgK6l1rFzPOSkhoeI/edit?usp=sharing
+- Basically, this prompt sets you up to be able to get support, learn and improve you skills and understanding without just being given the answers (working code).
+
+2. You have to download and attach this document to your prompt: https://docs.google.com/document/d/1KTrM8X539Gcf86KVkwVVSh8awU8JitkTw1Bl0eZJd_E/edit?usp=sharing
+- This contains the full project guide in one doc. DO NOT copy paste this into the LLMs chat box. It's to much text for that 📚
+
+3. Do not give it information about yourself that you wouldn't want to share publicly on the internet.
+
 ## Questions or Issues?
 Refer to the appropriate document or ask for clarification from your instructor.
