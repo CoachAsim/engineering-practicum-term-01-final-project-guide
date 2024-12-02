@@ -13,6 +13,8 @@ In the case of exploratory data analysis we are using the pandas library to load
 I'll give you this one for free 😁 https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html
 
 You can also look below for a more contextually relevant example 🧐
+
+If you don't need to read all of the code examples in this guide, then please don't 🙏🏾
 ```python
 def load_data():
     """Interactive data loading with user feedback."""
