@@ -11,6 +11,8 @@ Documentation! Documentation! Documentation!
 In the case of exploratory data analysis we are using the pandas library to load and process our data sets. To figure out how to do that, I go to the documentation. 
 
 I'll give you this one for free 😁 https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html
+
+You can also look below for a more contextually relevant example 🧐
 ```python
 def load_data():
     """Interactive data loading with user feedback."""
