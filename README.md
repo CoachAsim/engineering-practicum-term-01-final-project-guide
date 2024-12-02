@@ -24,6 +24,9 @@ All documents are named using the format: `XX-category-name.md` where XX is a tw
 - `10-completion-checklist.md`: Checklist to make sure you complete all requirements 🙌🏾
 - `11-pep8-basics.md`: Python style guide for the project
 
+### Common Questions
+- `common-questions.md`: Once I set ya'll into space working independently, check this doc first before radioing back to me 🚀🧑‍🚀
+
 ## Core Programming Concepts
 The following concepts must be demonstrated in your project:
 
