@@ -71,10 +71,6 @@
   * Pylint for style checking
   * Python Docstring Generator
 
-- Testing Tools
-  * pytest for unit testing
-  * coverage.py for code coverage
-
 ## Remember:
 - Start with small, working features
 - Test interactive elements frequently
