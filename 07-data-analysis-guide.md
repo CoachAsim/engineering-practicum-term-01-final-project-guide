@@ -110,6 +110,8 @@ def analyze_data(df):
 ```
 
 ## 4. Interactive Visualization
+Hint: Here is where matplotlib and seaborn come into play 📊 Documentation. Documentation. Documentation.
+
 ```python
 def create_visualization(df, column):
     """Create visualizations with user input."""
