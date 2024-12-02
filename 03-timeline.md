@@ -4,7 +4,7 @@
 
 The timeline below helps you incrementally build your interactive data analysis project, ensuring you implement all required programming concepts while maintaining focus on your chosen topic.
 
-These times are just guides, not absolute time limits ⏱️ Don't rush yourself! its just good to begin to get a gauge on how long it takes you to do things. As always, with practice, things that used to take an hour can eventually take 5 minutes 😎
+These times are just guides, not absolute time limits ⏱️ Don't rush yourself! It's just good to begin to get a gauge on how long it takes you to do things. As always, with practice, things that used to take an hour can eventually take 5 minutes 😎
 
 ## Daily Breakdown
 
