@@ -51,11 +51,7 @@ The following concepts must be demonstrated in your project:
 
 3. Follow the timeline in `03-timeline.md`
 
-4. Use the rubric in `10-rubric.md` to self-assess
+4. Use the checklist in `10-completion-checklist.md` to self-assess
 
 ## Questions or Issues?
 Refer to the appropriate document or ask for clarification from your instructor.
-
----
-
-[Documentation follows in subsequent messages...]
