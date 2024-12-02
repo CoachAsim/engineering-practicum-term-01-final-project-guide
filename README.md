@@ -1,4 +1,4 @@
-# Engineering Practicum Term 1 Final Project - How to approach this guide!
+# Engineering Practicum Term 1 Final Project Guide!
 
 ## Document Structure
 All documents are named using the format: `XX-category-name.md` where XX is a two-digit number for ordering.
