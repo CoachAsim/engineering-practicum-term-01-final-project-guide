@@ -5,6 +5,7 @@
 ## Example main.py Organizations
 
 ### 1. Interactive Data Analysis Project (e.g., Music Listening Habits)
+Note: These code examples aren't actually loading data from anywhere.
 ```python
 """
 Project: Music Listening Habits Analyzer
