@@ -19,7 +19,7 @@ All documents are named using the format: `XX-category-name.md` where XX is a tw
 
 ### Reference Materials
 - `09-resources.md`: Library documentation and helpful links
-- `10-rubric.md`: Grading criteria and scoring guide
+- `10-completion-checklist.md`: Checklist to make sure you complete all requirements 🙌🏾
 - `11-pep8-basics.md`: Python style guide for the project
 
 ## Core Programming Concepts
