@@ -7,6 +7,8 @@ The timeline below helps you incrementally build your interactive data analysis 
 These times are just guides, not absolute time limits ⏱️ Don't rush yourself! It's just good to begin to get a gauge on how long it takes you to do things. As always, with practice, things that used to take an hour can eventually take 5 minutes 😎
 
 ## Daily Breakdown
+### Git & Github Daily
+- At the end of each day you should commit to git 🛟 https://github.com/git-guides/git-commit
 
 ### Day 1: Planning & Setup (1.5 hours)
 - Choose project focus (15 min)
@@ -21,6 +23,9 @@ These times are just guides, not absolute time limits ⏱️ Don't rush yourself
 - Create flow diagram (20 min)
 - Plan data types and variables (15 min)
 - Document interface design (15 min)
+
+### Optional (But Recommended):
+- If you want to become more confident with data loading, cleaning and visualization before implementing them in you main project: You can create a practice file and follow the `data-loading-cleaning-visualization-guide.md` guide 🙂
 
 ### Day 3: Data Processing & Core Concepts (1.5 hours)
 - Implement data loading with error handling (30 min)
