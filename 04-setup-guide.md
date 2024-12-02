@@ -22,6 +22,9 @@ python3 -c "import pandas; import matplotlib; import seaborn; print('Success! �
 
 ## Project Structure
 All projects will follow this simple structure:
+"your_project/" should be a folder (aka directory) named after your project. "data/" should be the folder that contains your csv file. 
+
+Be sure to maintain snake_case format 🐍
 ```
 your_project/
 ├── README.md     # Project documentation
