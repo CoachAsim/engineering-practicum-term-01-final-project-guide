@@ -54,9 +54,11 @@ The following concepts must be demonstrated in your project:
    └── data/
    ```
 
-3. Follow the timeline in `03-timeline.md`
+3. Setup your Additional Support 🤖
 
-4. Use the checklist in `10-completion-checklist.md` to self-assess
+4. Follow the timeline in `03-timeline.md`
+
+5. Use the checklist in `10-completion-checklist.md` to self-assess
 
 ## Additional Support
 I wish that for everyone one of you there was one of me but unfortunately that ratio is 1:16. So! I am using Large Language Model AI tools to help all of us : )
