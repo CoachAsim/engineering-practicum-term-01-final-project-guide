@@ -7,7 +7,7 @@
 - What dataset did you use?
 - What makes your analysis interactive?
 
-## 2. Interactive Demo (2 minutes)
+## 2. Interactive Demo (2 minutes) - RECORD A VIDEO
 - Show your program's main menu
 - Demonstrate key interactive features
 - Run a sample analysis
