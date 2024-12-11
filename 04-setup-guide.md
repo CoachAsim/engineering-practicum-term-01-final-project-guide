@@ -100,7 +100,13 @@ def analyze_data(df, feature=None):
         return df[feature].describe()
     return df.describe()
 
-# 6. Interactive Features
+# 6. Visualization Features
+def display_menu():
+    """Visualize data"""
+    # Code for visualization
+    
+
+# 7. Interactive Features
 def display_menu():
     """Show main menu and get user choice"""
     print("\n=== Data Analysis Menu ===")
@@ -108,7 +114,7 @@ def display_menu():
         print(f"{key}. {value}")
     return input("Enter your choice: ")
 
-# 7. Main Program
+# 8. Main Program
 def main():
     df = load_data('data/dataset.csv')
     while True:
