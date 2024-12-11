@@ -60,7 +60,7 @@ def clean_data(df):
         print("2. Fill with mean/mode")
         print("3. Keep as is")
         
-        choice = input("Enter choice (1-3): ")
+        choice = input("Enter choice (1-2): ")
         if choice == '1':
             df = df.dropna()
             print(f"Removed rows with missing values. {len(df)} rows remaining.")
